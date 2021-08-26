@@ -1,2 +1,2 @@
-# idiscuss
+# idiscuss forum
 Well, the purpose of a forum is to engage different groups of the same space together so they discuss some topic or give the opinion about something or provide useful information that can help another person or group and solve their problems or doubts, etc. So, the forum is a good space where people or students can build a connection with other members of the class and make their report or leave their opinions about some specific topic. The importance of the forum is that it’s helping people to develop their knowledge or ability of communication to communicate with people. That is why is important the forum. this is mainly a dynamic wesite in frontend part we use the css3,html,bootstrap,unspalsh api and backend part we use the php and mysql
